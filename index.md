@@ -10,8 +10,8 @@
       <p><b>电话：19991396321</b></p>
       <p><b>github：https://github.com/huangyulie</b></p>
     </td>
-    <td width="25%">
-      <img src="/04201203.jpg" width="100%">
+    <td width="25%" style="position:relative">
+      <img style="position:absolute" src="/04201203.jpg" width="100%">
     </td>
   </tr>
 </table>
