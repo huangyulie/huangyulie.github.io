@@ -11,7 +11,7 @@
       <p><b>github：https://github.com/huangyulie</b></p>
     </td>
     <td width="25%" style="position:relative">
-      <img style="position:absolute" src="/04201203.jpg" width="100%">
+      <img style="position:absolute;right:-1px;top:33px;" src="/04201203.jpg" width="100%">
     </td>
   </tr>
 </table>
