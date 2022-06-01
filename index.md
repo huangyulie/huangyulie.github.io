@@ -3,10 +3,12 @@
   <tr>
     <td width="75%">
       <h1>黄欲烈</h1>
+      <p><b>求职意向:前端实习生</b></p>
       <p><b>本科生|2024届</b></p>
       <p><b>西安邮电大学计算机学院</b></p>
       <p><b>邮箱：1279072972@qq.com</b></p>
       <p><b>电话：19991396321</b></p>
+      <p><b>github：https://github.com/huangyulie</b></p>
     </td>
     <td width="25%">
       <img src="/04201203.jpg" width="100%">
